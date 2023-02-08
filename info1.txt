@@ -4,3 +4,5 @@ Marital Status : Single
 Age : 33
 Native : Banglore
 Work : IT (Big Data)
+ONLINE TUTORING SUBJECT : BD
+PAYMENT/CLASS : 2k
